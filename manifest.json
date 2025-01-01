@@ -1,0 +1,139 @@
+{
+    "name": "Miside",
+    "description": "Bring Mita into Opera Gx and Live With Her forever",
+    "developer":
+    {
+        "name": "gotolouco"
+    },
+    "icons":
+    {
+        "512": "icon_512.png"
+    },
+    "manifest_version": 3,
+    "mod":
+    {
+        "license": "license.txt",
+        "payload":
+        {
+            "background_music": [ {
+                "id": "0",
+                "name": "Miside PlayTrack",
+                "tracks": [ "music/track_1.mp3", "music/track_2.mp3", "music/track_3.mp3", "music/track_4.mp3", "music/track_5.mp3", "music/track_6.mp3", "music/track_7.mp3", "music/track_8.mp3"]
+             } ],
+             "browser_sounds": [ {
+                "id": "0",
+                "name": "Miside",
+                "sounds": {
+                   "CLICK": [ "sounds/click.mp3" ],
+                   "FEATURE_SWITCH_OFF": [ "sounds/feature_switch_off.mp3" ],
+                   "FEATURE_SWITCH_ON": [ "sounds/feature_switch_on.mp3" ],
+                   "HOVER": [ "sounds/hover.mp3" ],
+                   "HOVER_UP": [ "sounds/hover.mp3" ],
+                   "IMPORTANT_CLICK": [ "sounds/important_click.mp3" ],
+                   "LIMITER_OFF": [ "sounds/limiter_off.mp3" ],
+                   "LIMITER_ON": [ "sounds/limiter_on.mp3" ],
+                   "SWITCH_TOGGLE": [ "sounds/switch.mp3" ],
+                   "TAB_CLOSE": [ "sounds/close_tab.mp3" ],
+                   "TAB_INSERT": [ "sounds/new_tab.mp3" ],
+                   "TAB_SLASH": [ "sounds/tab_slash.mp3" ]
+                }
+             } ],
+             "keyboard_sounds": [ {
+                "id": "0",
+                "name": "Day One",
+                "sounds": {
+                   "TYPING_BACKSPACE": [ "sounds/keyboard4.mp3" ],
+                   "TYPING_ENTER": [ "sounds/keyboard2.mp3" ],
+                   "TYPING_LETTER": [ "sounds/keyboard1.mp3", "sounds/keyboard5.mp3", "sounds/keyboard2.mp3", "sounds/keyboard4.mp3", "sounds/keyboard3.mp3" ],
+                   "TYPING_SPACE": [ "sounds/keyboard3.mp3" ]
+                }
+             } ],
+
+            "app_icon": [ {
+            "id": "app_icon_01",
+            "name": "Anime",
+            "path": "app_icon/app_icon1.png"
+             } ],
+
+             "fonts": [ {
+                "header": {
+                   "name": "Font",
+                   "variants": [ {
+                      "path": "font/Oswald Regular.ttf"
+                   } ]
+                },
+                "id": "fonts_01",
+                "name": "Miside"
+             } ],
+             
+            "splash_screen": [ {
+                "id": "splash_screen_01",
+                "name": "Miside",
+                "path": "splash/splash1.mp4"
+             } ],
+
+             "theme": [ {
+                "dark": {
+                   "gx_accent": {
+                      "h": 294,
+                      "s": 69.5,
+                      "l": 61.6
+                   },
+                   "gx_secondary_base": {
+                      "h": 305,
+                      "s": 100,
+                      "l": 27.800000000000004
+                   }
+                },
+                "id": "0",
+                "light": {
+                   "gx_accent": {
+                      "h": 294,
+                      "s": 69.5,
+                      "l": 61.6
+                   },
+                   "gx_secondary_base": {
+                      "h": 305,
+                      "s": 100,
+                      "l": 27.800000000000004
+                   }
+                },
+                "name": "Miside"
+             } ],
+            "wallpaper": [ {
+                "dark": {
+                   "first_frame": "wallpaper/first_frame.png",
+                   "image": "wallpaper/video.mp4",
+                   "speeddial_position": "top",
+                   "text_color": "#f0f0f0",
+                   "text_shadow": "#ffffff",
+                   "ui_settings": {
+                      "background_blur": 0,
+                      "background_opacity": 0,
+                      "focus_mode": false,
+                      "islands_opacity": 0,
+                      "vignette_strength": 35
+                   }
+                },
+                "id": "0",
+                "light": {
+                  "first_frame": "wallpaper/first_frame.png",
+                  "image": "wallpaper/video.mp4",
+                   "speeddial_position": "top",
+                   "text_color": "#f0f0f0",
+                   "text_shadow": "#00ff00",
+                   "ui_settings": {
+                      "background_blur": 0,
+                      "background_opacity": 100,
+                      "focus_mode": false,
+                      "islands_opacity": 0,
+                      "vignette_strength": 0
+                   }
+                },
+                "name": "Miside"
+             } ]
+          },
+        "schema_version": 2
+    },
+    "version": "1.0"
+}
