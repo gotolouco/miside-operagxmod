@@ -1,76 +1,64 @@
-        
-                 ____                          _______   __ 
-                / __ \                        / ____\ \ / /
-               | |  | |_ __   ___ _ __ __ _  | |  __ \ V / 
-               | |  | | '_ \ / _ \ '__/ _` | | | |_ | > <  
-               | |__| | |_) |  __/ | | (_| | | |__| |/ . \ 
-                \____/| .__/ \___|_|  \__,_|  \_____/_/ \_\
-                      | |                                  
-                      |_|                                  
+
+	 ________   ________   _________   ________   ___        ________   ___  ___   ________   ________     
+	|\   ____\ |\   __  \ |\___   ___\|\   __  \ |\  \      |\   __  \ |\  \|\  \ |\   ____\ |\   __  \    
+	\ \  \___| \ \  \|\  \\|___ \  \_|\ \  \|\  \\ \  \     \ \  \|\  \\ \  \\\  \\ \  \___| \ \  \|\  \   
+ 	 \ \  \  ___\ \  \\\  \    \ \  \  \ \  \\\  \\ \  \     \ \  \\\  \\ \  \\\  \\ \  \     \ \  \\\  \  
+	  \ \  \|\  \\ \  \\\  \    \ \  \  \ \  \\\  \\ \  \____ \ \  \\\  \\ \  \\\  \\ \  \____ \ \  \\\  \ 
+	   \ \_______\\ \_______\    \ \__\  \ \_______\\ \_______\\ \_______\\ \_______\\ \_______\\ \_______\
+	    \|_______| \|_______|     \|__|   \|_______| \|_______| \|_______| \|_______| \|_______| \|_______|                                                                                                                                                                                                         
+                                                                                                     
+                                                                                   
+                                			  presents
+	 _____ ______    ___   ________   ___   ________   _______           _____ ______    ________   ________     
+	|\   _ \  _   \ |\  \ |\   ____\ |\  \ |\   ___ \ |\  ___ \         |\   _ \  _   \ |\   __  \ |\   ___ \    
+	\ \  \\\__\ \  \\ \  \\ \  \___|_\ \  \\ \  \_|\ \\ \   __/|        \ \  \\\__\ \  \\ \  \|\  \\ \  \_|\ \   
+	 \ \  \\|__| \  \\ \  \\ \_____  \\ \  \\ \  \ \\ \\ \  \_|/__       \ \  \\|__| \  \\ \  \\\  \\ \  \ \\ \  
+	  \ \  \    \ \  \\ \  \\|____|\  \\ \  \\ \  \_\\ \\ \  \_|\ \       \ \  \    \ \  \\ \  \\\  \\ \  \_\\ \ 
+	   \ \__\    \ \__\\ \__\ ____\_\  \\ \__\\ \_______\\ \_______\       \ \__\    \ \__\\ \_______\\ \_______\
+	    \|__|     \|__| \|__||\_________\\|__| \|_______| \|_______|        \|__|     \|__| \|_______| \|_______|
+	                         \|_________|                                                                        
+                                                                                                             
+                                                                                                                 
       
-                                presents
       
-      
-       __  __           _   _______                   _       _       
-      |  \/  |         | | |__   __|                 | |     | |      
-      | \  / | ___   __| |    | | ___ _ __ ___  _ __ | | __ _| |_ ___ 
-      | |\/| |/ _ \ / _` |    | |/ _ \ '_ ` _ \| '_ \| |/ _` | __/ _ \
-      | |  | | (_) | (_| |    | |  __/ | | | | | |_) | | (_| | ||  __/
-      |_|  |_|\___/ \__,_|    |_|\___|_| |_| |_| .__/|_|\__,_|\__\___|
-                                               | |                    
-                                               |_|                    
-      
-      
- 
                                            
  ____                  _     _   _         
 |    \ ___ ___ ___ ___|_|___| |_|_|___ ___ 
 |  |  | -_|_ -|  _|  _| | . |  _| | . |   |
 |____/|___|___|___|_| |_|  _|_| |_|___|_|_|
                         |_|                
+
 ...............................................................................
 
-Hey there, welcome to the mod creation template based on the Purple Haze theme
-from  Opera GX. This  template  includes the original keyboard sounds, browser
-sounds, and music from Opera GX, as well as light and dark wallpapers that are
-based on the original Purple Haze wallpapers but have added information at the
-bottom to set them apart. There is also an example of animated wallpaper.
+Hey there, welcome to this project! This license recognizes the contributions 
+of creators whose assets have made this work possible. 
 
-We've also included a simple web  modding  CSS that changes the text color and
-background  color on web pages in the opera.com domain. This will show you how
-to read colors from the browser and apply them to web pages. And lastly, we've
-included  basic shaders  that  demonstrate  how  to  use  animated and  static
-versions. Have fun creating your mods!
-                              
- _____           _ _ _       
-|     |___ ___ _| |_| |_ ___ 
-|   --|  _| -_| . | |  _|_ -|
-|_____|_| |___|___|_|_| |___|
-...............................................................................
+Credits
+-------
+Special thanks to the Creators of Miside for their outstanding work and 
+contributions, including:
+- Animations
+- Music
+- Images
+- Textures
+- Fonts
+- 3D Models
+- 3D Animations
 
-CREDITS GO HERE
-                                                              
- __    _                         
-|  |  |_|___ ___ ___ ___ ___ ___ 
-|  |__| |  _| -_|   |  _| -_|_ -|
-|_____|_|___|___|_|_|___|___|___|
-...............................................................................
-               
-LICENCES GO HERE
-                       
- _____       _         
-|  |  |_ _ _| |___ ___ 
-|    -| | | . | . |_ -|
-|__|__|___|___|___|___|
-...............................................................................
-                       
-KUDOS GO HERE
+Licenses
+--------
+This project incorporates assets provided by the Creators of Miside under the 
+terms of their respective licenses. Please ensure compliance with these terms 
+when using or modifying these assets.
 
- _____ _       ___ ___ 
-|   __| |_ _ _|  _|  _|
-|__   |  _| | |  _|  _|
-|_____|_| |___|_| |_|  
-...............................................................................
-                       
-OTHER STUFF GOES HERE
+Kudos
+-----
+A big shoutout to all collaborators and testers who have contributed feedback 
+and support during the development of this project. 
 
+Other Notes
+-----------
+For inquiries, further contributions, or licensing details, please contact the 
+project maintainers. Let's continue to create and share amazing projects!
+
+...............................................................................
