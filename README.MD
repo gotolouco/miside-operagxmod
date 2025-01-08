@@ -1,76 +1,55 @@
+<h1 align="center">Opera GX Wallpaper Inspired by the Game Miside 🎮✨</h1>
 
-<h1 align="center">Wallpaper para Opera GX inspirado no jogo Miside 🎮✨</h1>
+<h2 align="center">🖌️ About the Project:</h2>
 
-<h2 align="center">🖌️ Sobre o Projeto:</h2>
+<p align="center">This is a custom wallpaper designed for the Opera GX browser, inspired by the amazing game Miside.</p>
+<p align="center">The idea is to bring the game's atmosphere to the browser, making the browsing experience even more immersive and stylish.</p>
 
-<h4 align="center">
+<h2 align="center">🌟 Features:</h2>
 
-    Este é um wallpaper personalizado desenvolvido para o navegador Opera GX, inspirado no incrível jogo Miside. 
-    A ideia é trazer a atmosfera do jogo para o navegador, tornando a experiência de navegação ainda mais imersiva e estilosa.
+<p align="center">Design inspired by the visuals and theme of the game Miside.</p>
+<p align="center">Compatible with Opera GX, the gamer browser.</p>
+<p align="center">Immersive and vibrant style to match gamer setups.</p>
 
-</h4> 
+<h2 align="center">📂 Project Structure:</h2>
 
-<h2 align="center">🌟 Características:</h2>
+<p align="center">app_icon/ - Icon file.</p>
+<p align="center">font/ - Font file for the wallpaper.</p>
+<p align="center">music/ - Music files for the wallpaper.</p>
+<p align="center">sounds/ - Sound files for the wallpaper.</p>
+<p align="center">splash/ - Splash screen file for the wallpaper.</p>
+<p align="center">wallpaper/ - Images and visual resources used in the project.</p>
+<p align="center">icon_512.png - Icon image for the wallpaper.</p>
+<p align="center">license.txt - Project license file.</p>
+<p align="center">manifest.json - Manifest file for the project.</p>
+<p align="center">README.md - Project documentation.</p>
+    
+<h2 align="center">🛠️ How to Use:</h2>
 
-<h4 align="center">
+<h4 align="center">Automatic Mode (Still Not Functional 🛠️):</h4>
 
-    Design inspirado nos visuais e na temática do jogo Miside.
-    Compatível com o Opera GX, o navegador gamer.
-    Estilo imersivo e vibrante para combinar com setups gamers.
+<p align="center">Open Opera GX.</p>
+<p align="center">Go to appearance settings (Settings > Mods > Store > Search: Miside OperaGX Mod).</p>
+<p align="center">Install.</p>
+<p align="center">Done! Enjoy the new look.</p>
+<br>
+<h3 align="center"> Manual Mode:</h3>
+<p align="center">Open Opera GX.</p>
+<p align="center">Go to appearance settings (Settings > Extensions).</p>
+<p align="center">Just drop the file onto the screen (anywhere).</p>
+<p align="center">Done! Enjoy the new look.</p>
 
-</h4> 
+<h2 align="center">📌 Note:</h2>
 
-<h2 align="center">📂 Estrutura do Projeto:</h2>
+<h4 align="center">This wallpaper is a fan creation by one person and has no official affiliation with the game Miside or its developers.</h4>
 
-<h4 align="center">
+<h2 align="center">🖍️ License:</h2>
 
-    app_icon/ - Arquivo Icon.
+<p align="center">This project is released under the MIT License. Feel free to use, modify, and share it, respecting the terms of the license.</p>
 
-    font/ - Aqruivo de Font do wallpaper.
+<h2 align="center">💬 Contact:</h2>
 
-    music/ - Arquivos de Musica do wallpaper.
-
-    sounds/ - Arquivos Som do wallpaper.
-
-    splash/ - Arquivo de Splash Screen do wallpaper.
-
-    wallpaper/ - Imagens e recursos visuais utilizados no projeto.
-
-    icon_512.png - Imagem de icon do wallpaper.
-
-    license.txt - license.txt do projeto.
-
-    manifest.json - manifest.json do projeto.
-
-    README.md - Documentação do projeto.
-
-
-</h4>
-
-<h2 align="center">🛠️ Como Usar:</h2>
-
-<h4 align="center">
-
-    Abra o Opera GX.
-    Vá até as configurações de aparência (Configurações > Mods > Loja > Pesquisa: Miside OperaGx)
-    Instalar.
-    Pronto! Aproveite o novo visual.
-
-</h4>
-
-<h2 align="center">📌 Nota:</h2>
-
-<h4 align="center">Este wallpaper é uma criação de fã e não possui afiliação oficial com o jogo Miside ou seus desenvolvedores.</h4>
-
-<h2 align="center">🖍️ Licença:</h2>
-
-<p align="center">Este projeto é disponibilizado sob a Licença MIT. Sinta-se à vontade para utilizar, modificar e compartilhar, respeitando os termos da licença.</p>
-
-<h2 align="center">💬 Contato:</h2>
-
-<p align="center">Se tiver dúvidas ou sugestões, fique à vontade para abrir uma Issue</p>
+<p align="center">If you have questions or suggestions, feel free to open an Issue.</p>
 <br></br>
 
 <h1 align="center">Praying for you 🕯️ O Great Mita 💝</h1>
-
-
