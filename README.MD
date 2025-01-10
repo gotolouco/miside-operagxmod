@@ -34,6 +34,7 @@
 <p align="center">Done! Enjoy the new look.</p>
 <br>
 <h3 align="center"> Manual Mode:</h3>
+<p align="center">Download the "CRX" file in Releases.</p>
 <p align="center">Open Opera GX.</p>
 <p align="center">Go to appearance settings (Settings > Extensions).</p>
 <p align="center">Just drop the file onto the screen (anywhere).</p>
