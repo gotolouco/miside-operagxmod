@@ -27,7 +27,7 @@
     
 <h2 align="center">🛠️ How to Use:</h2>
 
-<h4 align="center">Automatic Mode (Still Not Functional 🛠️):</h4>
+<h4 align="center">Automatic Mode:</h4>
 
 <p align="center">Open Opera GX.</p>
 <p align="center">(https://store.gx.me/pt-br/mods/6sttb6/miside-operagx-mod/)</p>
