@@ -18,7 +18,7 @@
 <p align="center">font/ - Font file for the wallpaper.</p>
 <p align="center">music/ - Music files for the wallpaper.</p>
 <p align="center">sounds/ - Sound files for the wallpaper.</p>
-<p align="center">splash/ - Splash screen file for the wallpaper.</p>
+<p align="center">splash/ - Splash screen file for the wallpaper.(🛠️STILL UNDER DEVELOPMENT🛠️)</p>
 <p align="center">wallpaper/ - Images and visual resources used in the project.</p>
 <p align="center">icon_512.png - Icon image for the wallpaper.</p>
 <p align="center">license.txt - Project license file.</p>
