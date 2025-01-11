@@ -30,7 +30,7 @@
 <h4 align="center">Automatic Mode (Still Not Functional 🛠️):</h4>
 
 <p align="center">Open Opera GX.</p>
-<p algin="center">(https://store.gx.me/pt-br/mods/6sttb6/miside-operagx-mod/)</p>
+<p align="center">(https://store.gx.me/pt-br/mods/6sttb6/miside-operagx-mod/)</p>
 <p align="center">Install.</p>
 <p align="center">Done! Enjoy the new look.</p>
 <br>
